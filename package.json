@@ -1,0 +1,17 @@
+{
+  "name": "file-sync",
+  "version": "1.0.0",
+  "description": "sync two dir",
+  "main": "index.js",
+  "author": "137602812@qq.com",
+  "homepage": "https://github.com/yangnianbing/file-sync",
+  "license": "MIT",
+  "bin": {
+    "sync": "index.js"
+  },
+  "dependencies": {
+    "buffer-equal": "^1.0.0",
+    "chokidar": "^2.0.4",
+    "commander": "^2.15.1"
+  }
+}
