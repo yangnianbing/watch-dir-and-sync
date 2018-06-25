@@ -2,7 +2,7 @@
 **使用方法：**    
 1. 通过npm全局安装  
 ```shell
-npm install file-sync -g
+npm install watch-dir-and-sync -g
 ```
 2. 指定监听  
 ```shell

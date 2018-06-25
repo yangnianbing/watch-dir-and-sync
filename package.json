@@ -1,10 +1,10 @@
 {
-  "name": "file-sync",
+  "name": "watch-dir-and-sync",
   "version": "1.0.0",
   "description": "sync two dir",
   "main": "index.js",
   "author": "137602812@qq.com",
-  "homepage": "https://github.com/yangnianbing/file-sync",
+  "homepage": "https://github.com/yangnianbing/watch-dir-and-sync",
   "license": "MIT",
   "bin": {
     "sync": "index.js"
